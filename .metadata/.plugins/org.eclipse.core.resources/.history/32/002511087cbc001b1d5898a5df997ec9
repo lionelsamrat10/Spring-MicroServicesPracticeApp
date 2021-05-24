@@ -1,0 +1,5 @@
+package com.samrat.microservices.service;
+
+public class OrderService {
+
+}

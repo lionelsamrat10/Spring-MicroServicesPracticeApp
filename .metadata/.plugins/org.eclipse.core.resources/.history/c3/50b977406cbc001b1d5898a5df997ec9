@@ -1,0 +1,5 @@
+package com.samrat.microservices.controller;
+
+public class ProductServiceController {
+
+}
